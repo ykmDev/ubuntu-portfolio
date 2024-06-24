@@ -44,9 +44,11 @@ deploy ref:
 2) https://www.dhiwise.com/post/how-to-host-your-nextjs-nginx-application-efficiently
 
 ## Configure a Process Manager with PM2
-pm2 start npm --name "ubuntu-portfolio" -- start
+``` pm2 start npm --name "ubuntu-portfolio" -- start ```
 
 ## Setting up SSL
+```
 sudo apt install certbot python3-certbot-nginx
 sudo certbot --nginx -d www.yankyawmin.tech
 sudo certbot --nginx -d yankyawmin.tech
+```
