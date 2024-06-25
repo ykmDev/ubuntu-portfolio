@@ -133,7 +133,7 @@ function About() {
             </div>
             <ul className=" mt-4 mb-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
                 <li className=" list-pc">I’m a developer experienced in building websites for small and medium-sized businesses, 
-                and now I'm looking for full-time frontend engineer roles! ( Hit me up <a className='text-underline' href='mailto:yankyawmin.ykm@gmail.com'><u>@yankyawmin.ykm@gmail.com</u></a>  &#128515; )</li>
+                and now I'm looking for full-time fullstack engineer roles! ( Hit me up <a className='text-underline' href='mailto:yankyawmin.ykm@gmail.com'><u>@yankyawmin.ykm@gmail.com</u></a>  &#128515; )</li>
                 <li className=" mt-3 list-building"> I enjoy building awesome softwares that solve practical problems.</li>
                 <li className=" mt-3 list-time"> When I am not coding my next project, I like to spend my time reading books, swimming, playing gym and mlbb game.</li>
                 <li className=" mt-3 list-star"> And I also have interest in Deep Learning & New Techniques!</li>
